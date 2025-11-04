@@ -1,13 +1,13 @@
 ![App Screenshot](https://raw.githubusercontent.com/Gadogbo-David/Gadogbo-MultiApp/refs/heads/master/Multi%20App%20Live%20Image.jpeg)
 
-#♑ Gadogbo MultiApp - Contains Everything You Need 🏦💎
+## Gadogbo MultiApp - Contains Everything You Need 
 
 Welcome to my personal **First C++ Project**, a modern project that showcases my strength, skills and contact information .
 The Project Features multiple mini - Projects That Are Effective And Can Be Applied In Real Life.
 
 ---
 
-##Features🐐🌐🗺️
+## Features
 
 **🧮A Calculator**
 **❄️Quiz App**
@@ -36,15 +36,17 @@ Gadogbo MultiApp serves as a demonstration of fundamental software engineering s
 
 ---
 
-##⚙️Setup & Usage
+## Setup & Usage
 
 1. **Clone This Repository**
+
 git clone https://github.com/Gadogbo-David/Gadogbo-MultiApp.git
+
 cd Gadogbo-MultiApp
 
 ---
 
-##☎️Contact
+## Contact
 
 **Email:**  [Email Me](mailto:codebygad@gmail.com)
 
