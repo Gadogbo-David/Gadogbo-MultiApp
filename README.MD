@@ -10,11 +10,13 @@ The Project Features multiple mini - Projects That Are Effective And Can Be Appl
 ## Features
 
 **🧮A Calculator**
-**❄️Quiz App**
-**🅿️Random Password Generator**
-**🏦Banking Program** -- 
-**Contact me:** [codebygad@gmail.com](mailto:codebygad@gmail.com)
 
+**❄️Quiz App**
+
+**🅿️Random Password Generator**
+
+**🏦Banking Program**
+ 
 ---
 
 ## Description
@@ -40,9 +42,9 @@ Gadogbo MultiApp serves as a demonstration of fundamental software engineering s
 
 1. **Clone This Repository**
 
-git clone https://github.com/Gadogbo-David/Gadogbo-MultiApp.git
+git clone  https://github.com/Gadogbo-David/Gadogbo-MultiApp.git
 
-cd Gadogbo-MultiApp
+cd  Gadogbo-MultiApp
 
 ---
 
@@ -59,11 +61,14 @@ cd Gadogbo-MultiApp
 ---
 
 ## Author
-**David Gadogbo**  
+
+**David Gadogbo** 
+
 Aspiring Full-Stack Developer & AI/ML Enthusiast passionate about building smart, efficient, and real-world projects using C++, Java, JavaScript, and Python.
 Focused on learning, creating, and pushing tech beyond limits.
 
 ---
 
 ## Collaboration
+
 Feel free to suggest improvements or collaborate on this project!
