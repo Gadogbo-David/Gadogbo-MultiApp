@@ -1,5 +1,8 @@
 # First Ever Single Project
 
+![App Screenshot](https://raw.githubusercontent.com/Gadogbo-David/Gadogbo-MultiApp/refs/heads/master/Multi%20App%20Live%20Image.jpeg)
+
+
 This is my **first Dev C++ project**.  
 
 ## Description
